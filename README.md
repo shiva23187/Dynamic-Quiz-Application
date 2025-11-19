@@ -1,8 +1,5 @@
 ⭐ Frugal Testing Assignment
-<p align="center"> <img src="https://img.shields.io/badge/Dynamic_Quiz_Application-Quiz_System-blue?style=for-the-badge"/> </p> <p align="center"> <a href="https://github.com/shiva23187"><img src="https://img.shields.io/github/stars/shiva23187"></a> <a href="https://github.com/shiva23187"><img src="https://img.shields.io/github/forks/shiva23187"></a> <a href="#"><img src="https://img.shields.io/github/license/shiva23187"></a> </p>
-Dynamic Quiz Application — Timer Based Quiz System
-<table> <tr> <td> The Dynamic Quiz Application is an interactive quiz system that allows users to choose quiz categories, select difficulty levels, answer timed questions, and view detailed performance results. This project is created as part of the **Frugal Testing Assignment**, demonstrating strong UI design, JavaScript logic, and automation testing skills. </td> </tr> </table>
-📑 Table of Contents
+
 
 Features
 
